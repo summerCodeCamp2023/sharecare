@@ -1,0 +1,33 @@
+
+
+
+
+.home-section{
+  background: url(gif.gif);
+  text-align: center;
+  height: 500px;
+}
+.image{
+    padding-top: 10px;
+    border-radius: 400px;
+}
+h3{
+    color: white;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+hr{
+    width: 100px;
+    margin-left: 46%;
+    border: 2px solid black;
+}
+h2{
+    margin-top: 5px;
+}
+#about-section{
+    text-align: center;
+}
